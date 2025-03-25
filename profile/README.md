@@ -22,7 +22,7 @@ Each repository within this organization encourage to follows a structured forma
 
 ## 📌 Guidelines
 ### ✅ Project Standards
-- Follow our [coding standards](docs/coding-standards.md).
+- Follow our [coding standards](../docs/coding-standards.md).
 - Use **semantic versioning (SemVer)** for releases.
 - Maintain a **clear documentation** for each project.
 - Follow the defined **branching strategy** (`main`, `name/dev`).
